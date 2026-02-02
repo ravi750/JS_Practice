@@ -21,4 +21,8 @@ console.log(typeof null); // object
 //Primitive data types is 7 => number, string, boolean, null, undefined, symbol, bigInt
 //Reference (Non-primitive) data type is 3 => objects, arrays, functions
 
+// In Stack memory => Primitive data types
+// In Heap memory => Reference data types
+
+
 
