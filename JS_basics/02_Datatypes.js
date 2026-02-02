@@ -18,3 +18,7 @@ let isApproved = true; // boolean
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
 
+//Primitive data types is 7 => number, string, boolean, null, undefined, symbol, bigInt
+//Non-primitive data type is 3 => objects, arrays, functions
+
+
